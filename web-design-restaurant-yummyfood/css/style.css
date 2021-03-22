@@ -108,7 +108,9 @@ fieldset {
 /* CSS for Food SEarch Section */
 
 .food-search {
-  background-image: url(../images/bg.jpg);
+  /* background-image: url(../images/bg.jpg); */
+  /* background-image: url(../pexels-anna-tis-6341164.jpg); */
+  background-image: url(../images/pexels-chan-walrus-958545.jpg);
   background-size: cover;
   background-repeat: no-repeat;
   background-position: center;
