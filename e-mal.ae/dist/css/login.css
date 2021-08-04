@@ -1,0 +1,145 @@
+.login-box.forgot-pass {
+  margin: 15% auto;
+}
+
+.login-box.forgot-pass .login-outer {}
+
+.login-box.reset-pass {
+  margin: 10% auto;
+  margin-top: 20%;
+}
+
+.login-box {
+  margin: 10% auto;
+}
+
+.login-outer {
+  background: rgba(154, 122, 50, 1);
+}
+
+.login-page {
+  /*background: url('../img/login-bg.png')no-repeat center center/cover;*/
+  background: #fff;
+}
+
+.login-box-msg {
+  font-size: 16px;
+  text-transform: uppercase;
+  font-weight: 600;
+  color: #fff;
+}
+
+.login-logo img {
+  padding-top: 35px;
+}
+
+.login-logo h2 {
+  color: #222;
+  margin-top: 0px;
+  margin-bottom: 0px;
+}
+
+.login-logo,
+.register-logo {
+  margin-bottom: 5px;
+}
+
+.login-box-body {
+  background: transparent;
+}
+
+.login-box-body>a {
+  font-weight: 600;
+}
+
+/* .emal-app img {
+  margin: 30px;
+  margin-left: 80px;
+  padding-left: 20px;
+  float: right;
+} */
+
+.btn-primary:hover,
+.btn-primary:active,
+.btn-primary.hover,
+.btn-primary:focus {
+  background-color: #2C3B41 !important;
+  border-color: #2C3B41 !important;
+  outline: none;
+}
+
+.btn-primary {
+  background-color: #1E282C;
+  border-color: #1E282C;
+}
+
+.forgotPassword a,
+.forgotPassword a:hover {
+  line-height: 2.4;
+  color: #fff;
+}
+
+.error {
+  color: #ce0909;
+  font-weight: 500;
+}
+
+.form-control.error:focus {
+  border-color: #ce0909 !important;
+}
+
+a {
+  color: #9A7A32;
+}
+
+a:hover,
+a:active,
+a:focus {
+  color: #9A7A32;
+  outline: none;
+}
+
+.support-link,
+.support-link:hover,
+.support-link:focus,
+.support-link:active {
+  color: #fff;
+  text-transform: capitalize;
+  text-decoration: none;
+}
+
+.se-pre-con {
+  position: fixed;
+  left: 0px;
+  top: 0px;
+  width: 100%;
+  height: 100%;
+  z-index: 9999;
+  background: url(../img/loader.gif) center no-repeat rgba(225, 225, 225, 0.5);
+}
+
+.alert .close {
+  color: #333;
+  opacity: 1;
+  right: 10px;
+  top: 15px;
+  z-index: 9;
+  position: absolute;
+  text-shadow: none;
+}
+
+.alert-content {
+  position: relative;
+  top: 0px;
+  text-align: center;
+}
+
+.alert {
+  width: 37%;
+  bottom: 50px;
+  left: 0;
+  position: fixed;
+  z-index: 99999;
+  right: 0;
+  margin: 0 auto;
+}

@@ -1,0 +1,1379 @@
+@media (min-width:1519px) and (max-width: 1600px){
+  @media screen and (-webkit-min-device-pixel-ratio:0) {  
+    .idproof .form-control{
+      padding:4px 30px;
+    }
+  }
+  @media screen and (-webkit-min-device-pixel-ratio:0) {  
+  .idproof .form-control{
+    padding:6px 30px;
+  }
+}
+}
+
+@media (min-width:1025px){
+.nav.nav-pills li:hover, .nav.nav-pills li.active {
+    background: #9a7a32;
+}
+.nav.nav-pills li a:hover, .nav.nav-pills li.active a{
+    color:#fff;
+}
+}
+@media (max-width:1366px){
+  .propic img {
+    height: 142px;
+  }
+}
+@media (max-width:1024px){
+.side-menu-container ul li a::before {
+    content: url('../img/customer-dashboard/dash-board.png');
+}
+.side-menu-container ul li.dashboard:hover a::before {
+    content: url('../img/customer-dashboard/dash-board.png');
+}
+.side-menu-container ul li.top_up_wallet a::before {
+    content: url('../img/customer-dashboard/Topup-wallet.png');
+}
+.side-menu-container ul li.top_up_wallet:hover a::before {
+    content: url('../img/customer-dashboard/Topup-wallet.png');
+}
+.side-menu-container ul li.my_profile a::before {
+    content: url('../img/customer-dashboard/my-profile.png');
+}
+.side-menu-container ul li.my_profile:hover a::before {
+    content: url('../img/customer-dashboard/my-profile.png');
+}
+.side-menu-container ul li.manage_cards a::before {
+    content: url('../img/customer-dashboard/saved-cards.png');
+}
+.side-menu-container ul li.manage_cards:hover a::before {
+    content: url('../img/customer-dashboard/saved-cards.png');
+}
+.side-menu-container ul li.my_transactions a::before {
+    content: url('../img/customer-dashboard/transaction.png');
+}
+.side-menu-container ul li.my_transactions:hover a::before {
+    content: url('../img/customer-dashboard/transaction.png');
+}
+.side-menu-container ul li.my_transactions.active a::before, .side-menu-container ul li.my_transactions.active:hover a::before{
+    content: url('../img/customer-dashboard/my-trans-hover.png');
+}
+.side-menu-container ul li.manage_cards.active a::before, .side-menu-container ul li.manage_cards.active:hover a::before {
+    content: url('../img/customer-dashboard/saved-cards-hover.png');
+}
+.side-menu-container ul li.my_profile.active a::before, .side-menu-container ul li.my_profile.active:hover a::before {
+    content: url('../img/customer-dashboard/profile-hover.png');
+}
+.side-menu-container ul li.top_up_wallet.active a::before, .side-menu-container ul li.top_up_wallet.active:hover a::before {
+    content: url('../img/customer-dashboard/top-up-hover.png');
+}
+.side-menu-container ul li.dashboard.active a::before, .side-menu-container ul li.dashboard.active:hover a::before {
+    content: url('../img/customer-dashboard/dashboard-hover.png');
+}
+  .nav.nav-pills li:hover, .nav.nav-pills li:focus {
+    background: #fff;
+    color:#0f0f0f;
+}
+.nav.nav-pills li:hover a, .nav.nav-pills li:focus a{
+    background: #fff;
+    color:#0f0f0f;
+}
+.nav.nav-pills li a:hover, .nav.nav-pills li a:focus{
+    color:#0f0f0f;
+    background: #fff;
+}
+.nav.nav-pills li.active:hover a, .nav.nav-pills li.active a:hover, .nav.nav-pills li.active:hover {
+    background:#9a7a32;
+    color:#fff;
+}
+  .transfer-funds{
+    width: 50%;
+  }
+  /*.transfer .image::after{
+  top: -13px;
+    left: 63px;
+  }*/
+  .email-table .reset-filter label {
+    display: block;
+  }
+	.navbar-toggle .icon-bar {
+	    background: #fff none repeat scroll 0 0;
+	}
+  .propic img {
+    width: 100%;
+  }
+  .propic {
+    display: inline-block;
+    width: 35%;
+  }
+  .card_content {
+    display: inline-block;
+    width: 60%;
+    vertical-align: top;
+    float: right;
+  }
+  .card_content .span {
+    margin-top: 22px;
+  }
+  .cardinfo_content .span {
+    margin-top: 22px;
+  }
+  .transfer {
+    padding: 20px 5px;
+  }
+  .navbar-brand > img {
+    max-width: 200px;
+    margin-top: 5px;
+  }
+  p.wal-balnc {
+    margin-top: 15px;
+  }
+  .propic img {
+    height: 100px;
+}
+  
+}
+@media (max-width:990px){
+  #transactions-table thead tr th {
+    word-wrap: break-word;
+  }
+  #editprofile .control-group .input-group.date{
+    margin-bottom: 15px;
+  }
+  .sm-p0{
+    padding:0px !important;
+  }
+  .add_btn_grp {
+      padding: 0px 0px 30px 20px;
+  }
+  .pre-amt-grp{
+    padding: 0px 20px 20px;
+    margin-top: 0;
+  }
+  .add-amt {
+      padding: 29px 20px;
+  }
+  .btn-emal, .btn-cancel{
+    padding: 8px 26px;
+  }
+  .wal-balance{
+    padding:15px;
+    margin-bottom: 30px;
+  }
+  p.wal-balnc {
+    margin-top: 38px;
+    text-transform: uppercase;
+    text-align: right;
+}
+.cardinfo_content .button{
+  padding: 3% 5%;
+}
+.navbar-brand > img {
+    max-width: 200px;
+    margin-top: 5px;
+  }
+  p.wal-balnc {
+    margin-top: 15px;
+  }
+}
+@media (max-width:980px){
+  .trigger{
+    font-size: 14px;
+  }
+  .propic img {
+    width: 50%;
+    margin:0 auto;
+  }
+  .propic {
+    display: inline-block;
+    width: 100%;
+    text-align: center;
+  }
+  .card_content {
+    display: inline-block;
+    width: 100%;
+    vertical-align: middle;
+    float: none;
+    margin-top: 15px;
+    text-align: center;
+  }
+  .cardinfo_content {
+    display: inline-block;
+    width: 100%;
+    vertical-align: middle;
+    float: none;
+    text-align: center;
+    margin-top: 10px;
+  }
+  .card_content .span {
+    margin-top: 22px;
+  }
+  .cardinfo_content .span {
+    margin-top: 22px;
+  }
+  .transfer {
+    padding: 30px 0px;
+  }
+  .image {
+    width: 100%;
+    cursor: pointer;
+    height: 121px;
+    margin: 0 auto;
+  }
+  .navbar-brand > img {
+    max-width: 200px;
+    margin-top: 5px;
+  }
+  p.wal-balnc {
+    margin-top: 15px;
+  }
+}
+@media (max-width:979px){
+  .span.kyc, .cardinfo_content .span {
+    width: 50%;
+    margin: 0 auto;
+    margin-top: 22px;
+}
+  .customer-dashboard .brand-wrapper .navbar-toggle {
+      display: block;
+      padding: 18px 10px;
+  }
+  .customer-dashboard .brand-wrapper .navbar-toggle:hover, .customer-dashboard .brand-wrapper .navbar-toggle:focus{
+    background: #4B4B4B;
+  }
+  .side-menu .navbar-header {
+      width: auto;
+      border-bottom: 0px solid #e7e7e7;
+      position: absolute;
+  }
+  .dashboard-heading{
+    margin-top: 12px;
+    text-transform: capitalize;
+  }
+  .customer-dashboard .side-body {
+    margin-top: 10px;
+  }
+  .customer-dashboard .side-menu .navbar {
+    min-height: 50px;
+    background: transparent;
+  }
+  .navbar-default .navbar-toggle .icon-bar {
+      background-color: #fff;
+  }
+  .customer-dashboard .navbar-toggle {
+      
+      padding: 18px 10px;
+      background: #4B4B4B;
+  }
+  .customer-dashboard .side-menu-container > .navbar-nav{
+    border-right: 0px solid #e7e7e7;
+  }
+  .customer-dashboard .side-menu-container > .navbar-nav.slide-in{
+    /*left:0px !important;*/
+  }
+  .side-menu {
+    width: 0px;
+  }
+  .side-menu.open {
+    width: 300px;
+    -moz-animation: slidein 300ms forwards;
+    -o-animation: slidein 300ms forwards;
+    -webkit-animation: slidein 300ms forwards;
+    animation: slidein 300ms ;
+    -webkit-transform-style: preserve-3d;
+    transform-style: preserve-3d;
+  }
+  .side-menu .brand-name-wrapper .navbar-brand {
+    display: inline-block;
+  }
+  /* Slide in animation */
+  @-moz-keyframes slidein {
+    0% {
+      left: -300px;
+    }
+    100% {
+      left: 0px;
+    }
+  }
+  @-webkit-keyframes slidein {
+    0% {
+      left: -300px;
+    }
+    100% {
+      left: 0px;
+    }
+  }
+  @keyframes slidein {
+    0% {
+      left: -300px;
+    }
+    100% {
+      left: 0px;
+    }
+  }
+  @-moz-keyframes slideout {
+    0% {
+      left: 0;
+    }
+    100% {
+      left: -300px;
+    }
+  }
+  @-webkit-keyframes slideout {
+    0% {
+      left: 0;
+    }
+    100% {
+      left: -300px;
+    }
+  }
+  @keyframes slideout {
+    0% {
+      left: 0;
+    }
+    100% {
+      left: -300px;
+    }
+  }
+  /* Slide side menu*/
+  .side-menu-container > .navbar-nav.slide-in {
+    -moz-animation: slidein 300ms forwards;
+    -o-animation: slidein 300ms forwards;
+    -webkit-animation: slidein 300ms forwards;
+    animation: slidein 300ms forwards;
+    -webkit-transform-style: preserve-3d;
+    transform-style: preserve-3d;
+  }
+  .side-menu-container > .navbar-nav {
+    position: absolute;
+    left: -300px;
+    width: 300px;
+    top: 50px;
+    height: 100%;
+    border-right: 1px solid #e7e7e7;
+    background-color: #f8f8f8;
+    -moz-animation: slideout 300ms forwards;
+    -o-animation: slideout 300ms forwards;
+    -webkit-animation: slideout 300ms forwards;
+    animation: slideout 300ms forwards;
+    -webkit-transform-style: preserve-3d;
+    transform-style: preserve-3d;
+  }
+  .side-menu-container > .navbar-nav:before{
+    position: absolute;
+    content: "";
+    background: #000;
+    left:0;
+    width: 300px;
+    height: 100%;
+  }
+  @-moz-keyframes bodyslidein {
+    0% {
+      left: 0;
+    }
+    100% {
+      left: 300px;
+    }
+  }
+  @-webkit-keyframes bodyslidein {
+    0% {
+      left: 0;
+    }
+    100% {
+      left: 300px;
+    }
+  }
+  @keyframes bodyslidein {
+    0% {
+      left: 0;
+    }
+    100% {
+      left: 300px;
+    }
+  }
+  @-moz-keyframes bodyslideout {
+    0% {
+      left: 300px;
+    }
+    100% {
+      left: 0;
+    }
+  }
+  @-webkit-keyframes bodyslideout {
+    0% {
+      left: 300px;
+    }
+    100% {
+      left: 0;
+    }
+  }
+  @keyframes bodyslideout {
+    0% {
+      left: 300px;
+    }
+    100% {
+      left: 0;
+    }
+  }
+  /* Slide side body*/
+  .side-body {
+    margin-left: 5px;
+    margin-top: 70px;
+    position: relative;
+    -moz-animation: bodyslideout 300ms forwards;
+    -o-animation: bodyslideout 300ms forwards;
+    -webkit-animation: bodyslideout 300ms forwards;
+    animation: bodyslideout 300ms forwards;
+    -webkit-transform-style: preserve-3d;
+    transform-style: preserve-3d;
+  }
+  .body-slide-in {
+    -moz-animation: bodyslidein 300ms forwards;
+    -o-animation: bodyslidein 300ms forwards;
+    -webkit-animation: bodyslidein 300ms forwards;
+    animation: bodyslidein 300ms forwards;
+    -webkit-transform-style: preserve-3d;
+    transform-style: preserve-3d;
+  }
+  /* Hamburger */
+  .navbar-toggle {
+    border: 0;
+    float: left;
+    padding: 18px;
+    margin: 0;
+    border-radius: 0;
+    background-color: #f3f3f3;
+  }
+  .navbar-header {
+    /* this is probably redundant */
+    position: fixed;
+    z-index: 3;
+    background-color: #f8f8f8;
+  }
+  .navbar-header {
+    /* this is probably redundant */
+    position: fixed;
+    z-index: 3;
+    background-color: #f8f8f8;
+  }
+  .navbar-fixed-top .navbar-header {
+    /* this is probably redundant */
+    position: fixed;
+    z-index: 3;
+    background: transparent;
+  }
+  /* Dropdown tweek */
+  #dropdown .panel-body .navbar-nav {
+    margin: 0;
+  }
+}
+@media (max-width:800px){
+  p.wal-balnc {
+    margin-top: 0px;
+    text-transform: uppercase;
+    text-align: center;
+    display: inline-block;
+  }
+  p.wal-balnc span {
+      width: 100%;
+      float: left;
+  }
+  .nav.login-menu > li.logout a {
+    color: #9a7a32;
+    font-size: 20px;
+  }
+  ul li.bell-notification .fa.fa-bell {
+      color: #9a7a32;
+      font-size: 20px;
+  }
+  .navbar-brand > img {
+    max-width: 200px;
+    margin-top: 5px;
+  }
+}
+@media (max-width:768px){
+  /*.transfer .image::after{
+    width: 60px;
+    height: 88px;
+    right: auto;
+    left: 80px;
+    top: -28px;
+  }*/
+  .alert {
+    width: 80%;
+    bottom: 50px;
+    left: 0;
+    position: fixed;
+    z-index: 99999;
+    right: 0;
+    margin: 0 auto;
+  }
+  .btn-emal, .btn-cancel{
+    padding: 10px 50px;
+  }
+  .pre-amt-grp {
+    padding: 29px 0px;
+    margin-top: 30px;
+}
+  .add_btn_grp button {
+    margin-right: 40px;
+}
+  .add_btn_grp {
+      padding: 0px 0px 30px 20px;
+  }
+  .customer-dashboard .mobile-menu .navbar-toggle {
+      display: none !important;
+  }
+  .customer-dashboard .mobile-menu .navbar-toggle .icon-bar {
+      background: #4B4B4B;
+  }
+  .customer-dashboard .mobile-menu .navbar-toggle {
+      background: transparent;
+  }
+  .customer-dashboard .navbar-toggle {
+      display: block !important;
+      padding: 18px 10px;
+  }
+  .side-menu .navbar-header {
+      width: auto;
+      border-bottom: 0px solid #e7e7e7;
+      position: absolute;
+  }
+  .dashboard-heading{
+    margin-top: 12px;
+    text-transform: capitalize;
+  }
+  .customer-dashboard .side-body {
+    margin-top: 10px;
+  }
+  .customer-dashboard .side-menu .navbar {
+    min-height: 50px;
+    background: transparent;
+  }
+  .navbar-default .navbar-toggle .icon-bar {
+      background-color: #fff;
+  }
+  .customer-dashboard .navbar-toggle {
+      display: block !important;
+      padding: 18px 10px;
+      background: #4B4B4B;
+  }
+  .customer-dashboard .side-menu-container > .navbar-nav{
+    border-right: 0px solid #e7e7e7;
+  }
+  .customer-dashboard .side-menu-container > .navbar-nav.slide-in{
+    /*left:0px !important;*/
+  }
+ /* .side-menu {
+    position: relative;
+    width: 100%;
+    height: 0;
+    border-right: 0;
+    border-bottom: 1px solid #e7e7e7;
+  }*/
+  .side-menu .brand-name-wrapper .navbar-brand {
+    display: inline-block;
+  }
+  /* Slide in animation */
+  @-moz-keyframes slidein {
+    0% {
+      left: -300px;
+    }
+    100% {
+      left: 0px;
+    }
+  }
+  @-webkit-keyframes slidein {
+    0% {
+      left: -300px;
+    }
+    100% {
+      left: 0px;
+    }
+  }
+  @keyframes slidein {
+    0% {
+      left: -300px;
+    }
+    100% {
+      left: 0px;
+    }
+  }
+  @-moz-keyframes slideout {
+    0% {
+      left: 0;
+    }
+    100% {
+      left: -300px;
+    }
+  }
+  @-webkit-keyframes slideout {
+    0% {
+      left: 0;
+    }
+    100% {
+      left: -300px;
+    }
+  }
+  @keyframes slideout {
+    0% {
+      left: 0;
+    }
+    100% {
+      left: -300px;
+    }
+  }
+  /* Slide side menu*/
+  .side-menu-container > .navbar-nav.slide-in {
+    -moz-animation: slidein 300ms forwards;
+    -o-animation: slidein 300ms forwards;
+    -webkit-animation: slidein 300ms forwards;
+    animation: slidein 300ms forwards;
+    -webkit-transform-style: preserve-3d;
+    transform-style: preserve-3d;
+  }
+  .side-menu-container > .navbar-nav:before{
+    position: absolute;
+    content: "";
+    background: #997835;
+    width: 300px;
+    left: 0;
+    top: 0;
+  }
+  .side-menu-container > .navbar-nav {
+    position: absolute;
+    left: -300px;
+    width: 300px;
+    top: 50px;
+    height: 100%;
+    border-right: 1px solid #e7e7e7;
+    background-color: #f8f8f8;
+    -moz-animation: slideout 300ms forwards;
+    -o-animation: slideout 300ms forwards;
+    -webkit-animation: slideout 300ms forwards;
+    animation: slideout 300ms forwards;
+    -webkit-transform-style: preserve-3d;
+    transform-style: preserve-3d;
+  }
+  @-moz-keyframes bodyslidein {
+    0% {
+      left: 0;
+    }
+    100% {
+      left: 300px;
+    }
+  }
+  @-webkit-keyframes bodyslidein {
+    0% {
+      left: 0;
+    }
+    100% {
+      left: 300px;
+    }
+  }
+  @keyframes bodyslidein {
+    0% {
+      left: 0;
+    }
+    100% {
+      left: 300px;
+    }
+  }
+  @-moz-keyframes bodyslideout {
+    0% {
+      left: 300px;
+    }
+    100% {
+      left: 0;
+    }
+  }
+  @-webkit-keyframes bodyslideout {
+    0% {
+      left: 300px;
+    }
+    100% {
+      left: 0;
+    }
+  }
+  @keyframes bodyslideout {
+    0% {
+      left: 300px;
+    }
+    100% {
+      left: 0;
+    }
+  }
+  /* Slide side body*/
+  .side-body {
+    margin-left: 5px;
+    margin-top: 70px;
+    position: relative;
+    -moz-animation: bodyslideout 300ms forwards;
+    -o-animation: bodyslideout 300ms forwards;
+    -webkit-animation: bodyslideout 300ms forwards;
+    animation: bodyslideout 300ms forwards;
+    -webkit-transform-style: preserve-3d;
+    transform-style: preserve-3d;
+  }
+  .body-slide-in {
+    -moz-animation: bodyslidein 300ms forwards;
+    -o-animation: bodyslidein 300ms forwards;
+    -webkit-animation: bodyslidein 300ms forwards;
+    animation: bodyslidein 300ms forwards;
+    -webkit-transform-style: preserve-3d;
+    transform-style: preserve-3d;
+  }
+  /* Hamburger */
+  .navbar-toggle {
+    border: 0;
+    float: left;
+    padding: 18px;
+    margin: 0;
+    border-radius: 0;
+    background-color: #f3f3f3;
+  }
+  .navbar-header {
+    /* this is probably redundant */
+    position: fixed;
+    z-index: 3;
+    background-color: #f8f8f8;
+  }
+  .navbar-header {
+    /* this is probably redundant */
+    position: fixed;
+    z-index: 3;
+    background-color: #f8f8f8;
+  }
+  .navbar-fixed-top .navbar-header {
+    /* this is probably redundant */
+    position: fixed;
+    z-index: 3;
+    background: transparent;
+  }
+  #dropdown .panel-body .navbar-nav {
+    margin: 0;
+  }
+   @media screen and (-webkit-min-device-pixel-ratio:0) {  
+    .idproof .form-control{
+      padding:6px 30px;
+    }
+    .idproof span {
+      padding: 5px 25px;
+    }
+  }
+  .controls.idproof.second-upld{
+    margin-bottom: 0px;
+  }
+  .propic img {
+    height: 150px;
+}
+}
+
+@media (max-width:767px){
+  #topup_amount{
+    width:60%;
+  }
+  .span.kyc, .cardinfo_content .span {
+    width: 60%;
+    margin: 0 auto;
+    margin-top: 22px;
+  }
+/*  .transfer .image::after {
+    width: 60px;
+    height: 88px;
+    right: auto;
+    left: 70px;
+    top: -28px;
+}*/
+  .body-content {
+    margin-top: 80px;
+  }
+  .navbar-brand > img {
+    display: block;
+    max-width: 190px;
+  }
+  .customer-dashboard .navbar-toggle:focus {
+    background: #4B4B4B;
+  }
+  .customer-dashboard .navbar {
+    min-height: 80px;
+  }
+  .customer-dashboard .mobile-menu .navbar-toggle {
+    background: transparent;
+    display: block !important;
+    margin-top: 10px;
+    margin-right: 15px;
+  }
+  .servic-other .transfer-funds:nth-child(2n) .transfer::after{
+    border-right: 0px solid #bbb;
+  }
+  .transfer::after {
+    content: '';
+    height: 150px;
+    border-right: 1px solid #bbb;
+    right: 0;
+    position: absolute;
+    top: 15%;
+  }
+	.navbar-nav.main-menu {
+    margin: 0;
+    padding-left: 0;
+    float:none;
+	}
+	.navbar-nav.main-menu, .navbar-nav.login-menu{
+		text-align:right;
+		background:rgba(0, 0, 0, 0.5) none repeat scroll 0 0;
+		margin:14px auto 0;
+	}
+	.navbar-nav.login-menu > li > a{
+		font-size:18px;
+	}
+	.navbar-toggle {
+	   margin-top: 0px;
+	}
+	.navbar {
+	   border-bottom: 1px solid #eee;
+	}
+	.navbar-collapse {
+    border-top: 0 solid transparent;
+    box-shadow: none;
+    overflow-x: visible;
+    padding-left: 15px;
+    padding-right: 15px;
+	}
+  .customer-dashboard .mobile-menu .nav > li {
+    position: relative;
+    display: inline-block;
+  }
+  .customer-dashboard #mobileMenu .navbar-nav.login-menu {
+    float: right !important;
+    margin-right: 10px;
+    display: inline !important;
+    width: 50%;
+    position: absolute;
+    right: 15px;
+    top: 60px
+  }
+  #myNavbar {
+    position: relative;
+    width: 100%;
+    padding: 0;
+  }
+  #myNavbar ul{
+    width: 100%;
+  }
+  #myNavbar > ul > li{
+    display: inline-block;
+  }
+  #myNavbar > ul > li > a{
+    color: #eee;
+  }
+  .login-menu .open .dropdown-menu{
+    position: static;
+    top: 100%;
+    left: 0;
+    z-index: 1000;
+    float: left;
+    min-width: 160px;
+    padding: 5px 0;
+    margin: 2px 0 0;
+    font-size: 14px;
+    text-align: left;
+    list-style: none;
+    background-color: #fff;
+    -webkit-background-clip: padding-box;
+    background-clip: padding-box;
+    border: 1px solid #ccc;
+    border: 1px solid rgba(0,0,0,.15);
+    border-radius: 4px;
+    -webkit-box-shadow: 0 6px 12px rgba(0,0,0,.175);
+    box-shadow: 0 6px 12px rgba(0,0,0,.175);
+  }
+  .add_btn_grp {
+    padding: 0px 0px 30px 20px;
+  }
+  h2.dashboard-title{
+    display: none;
+  }
+  #myNavbar ul {
+    width: 100%;
+    padding: 0px 0px 15px 0px;
+  }
+  p.wal-balnc {
+    margin-bottom: 0px;
+  }
+  .navbar-nav > li.profile-pic {
+    margin-top: 0px;
+  }
+  p.wal-balnc span {
+    width: auto;
+    float: none;
+    color:#eee;
+  }
+  .nav li.profile-pic a img {
+    max-width: none;
+    width: 30px;
+    height: 30px;
+    border-radius: 50%;
+    border: 1px solid #cecece;
+  }
+  .bel-count {
+    top: 0px;
+  }
+  ul li.bell-notification .fa.fa-bell {
+    color: #9a7a32;
+    font-size: 24px;
+  }
+  ul li.profile-pic a {
+    top: 15px;
+  }
+  .service-heading{
+    top: 42%;
+  }
+  .crd-rmve {
+    padding: 0px;
+  }
+  #mytransactions .xs-p0{
+    padding:0px!important;
+  }
+  .static-mobile-details {
+    display: inline-block;
+    background: #4B4B4B;
+    width: 95%;
+    top: 0;
+    position: absolute;
+  }
+  .side-menu .navbar-header {
+    width: 100%;
+    position: fixed;
+    background: transparent;
+  }
+  .static-mobile-details .mobile-login-menu {
+    display: inline;
+    margin-top: 0px;
+    background: transparent;
+    padding-left: 0px;
+    float: right;
+    margin-bottom: 0px;
+    padding-right: 20px;
+  }
+  .side-menu .static-mobile-details .mobile-login-menu li {
+    display: inline-block;
+    width: auto;
+    line-height: 50px;
+  }
+  .side-menu .static-mobile-details .mobile-login-menu li a {
+    padding: 0px 0px 0px 30px;
+    color: #eee;
+  }
+  .side-menu .static-mobile-details .mobile-login-menu li a:hover{
+    text-decoration: none;
+  }
+  .static-mobile-details .notific {
+    position: relative;
+  }
+  .static-mobile-details .wal-balnc{
+    color: #eee;
+  }
+  .static-mobile-details .notific.bel-count {
+    top: 0px;
+    background: transparent;
+    position: relative;
+    right: 0px;
+  }
+  .pro-pic img{
+    border-radius: 50%;
+  }
+  .mobile-head .col-sm-3 {
+    width: 100%;
+  }
+  .mobile-head .col-sm-9 {
+    width: 100%;
+    display: none;
+  }
+  .navbar-fixed-top.mobile-head .navbar-header{
+    text-align: center;
+    margin: 0 auto;
+width: 100%;
+  }
+  .mobile-head .navbar-brand {
+    width: 100%;
+    margin-left: 0px;
+  }
+  .mobile-head .navbar-brand > img{
+    margin: 0 auto;
+  }
+  .static-mobile-details .wal-balnc span{
+    margin-left: 10px;
+  }
+  .static-mobile-details .wal-balnc img{
+    margin-top: -5px;
+  }
+  .customer-dashboard .side-body {
+    margin-left: 0px;
+}
+.customer-dashboard .side-menu {
+    position: fixed;
+    width: 300px;
+    height: 100%;
+    background-color: transparent;
+}
+.transfer::after {
+    border-right: 0px solid #bbb;
+}
+
+}
+@media (max-width:736px){
+  .customer-dashboard .side-menu-container > .navbar-nav.slide-in {
+    overflow-y: scroll;
+    height: 230px;
+    position: relative;
+    overflow-x: hidden;
+  }
+  .pre-amt-grp{
+    padding: 0px 20px 20px;
+    margin-top: 0;
+  }
+  .propic img {
+    height: 145px;
+}
+}
+@media (max-width:732px){
+  .footer_pagi .fk-default-pagination {
+    text-align: center;
+    margin-bottom: 10px;
+  }
+  .span.kyc, .cardinfo_content .span {
+    width: 60%;
+  }
+  #topup_amount{
+    width:100%;
+  }
+}
+@media (max-width:667px){
+	footer .col-xs-12 {
+    text-align: center;
+    float: none;
+	}
+	footer .social {
+	  text-align: center;
+	}
+  #transactions-table tr td {
+    word-wrap: break-word;
+  }
+  .profile-img{
+    padding:0px;
+  }
+  .trigger {
+    width: 50%;
+    margin: 0 auto;
+    margin-top: 15px;
+  }
+  #changepassword .pl0, #changepassword .pr0{
+    padding: 0px;
+  }
+  .topUpWallets{
+    padding:15px;
+  }
+  .propic img {
+    height: 130px;
+}
+}
+@media (max-width:640px){
+.customer-dashboard .side-menu-container > .navbar-nav.slide-in{
+  overflow-y: scroll;
+  height: 200px;
+  position: relative;
+  overflow-x: hidden;
+}
+.idproof-fake {
+    width: 60%;
+}
+
+}
+@media (max-width:639px){
+
+}
+@media (max-width:600px){
+  .span.kyc, .cardinfo_content .span {
+    width: 70%;
+  }
+  .pre-amt-grp{
+    padding: 0px 20px 20px;
+    margin-top: 0;
+  }
+  .customer-dashboard .side-menu-container > .navbar-nav.slide-in{
+    height: 300px;
+  }
+  @media screen and (-webkit-max-device-pixel-ratio:1) and (min-color-index:0) {
+.email-table table td::before {
+    margin-right: 10px;
+}
+}
+.static-mobile-details .mobile-login-menu {
+    margin-right: 35px;
+}
+.side-menu .static-mobile-details .mobile-login-menu li a {
+    padding: 0px 0px 0px 20px;
+    color: #eee;
+}
+}
+@media (max-width:568px){
+  .xs-p0{
+    padding:0px!important;
+  }
+  .xs-p15{
+    padding:0px 15px !important;
+  }
+  .email-table table td::before {
+    margin-right: 10px;
+  }
+  #transactions .footer_pagi nav, #e-wallet .footer_pagi nav{
+    text-align: center;
+    margin-bottom: 10px;
+  }
+  .email-table .table td:last-child{
+    border:1px solid #ddd;
+  }
+  .email-table table tr {
+    border-bottom: 1px solid #ddd;
+  }
+  .pagination>.active>a, .pagination>.active>a:focus, .pagination>.active>a:hover, .pagination>.active>span, .pagination>.active>span:focus, .pagination>.active>span:hover {
+    background-color: #997835;
+    border-color: #997835;
+  }
+  .pagination>li>a, .pagination>li>span{
+    color: #997835;
+  }
+  .span.kyc, .cardinfo_content .span {
+    width: 75%;
+  }
+}
+@media (max-width:500px){
+.idproof-fake {
+    width: 50%;
+}
+}
+@media (max-width:480px){
+  #mytransactions .payment-tab-sec .tab_container h3, #savedcards .payment-tab-sec .tab_container h3{
+    display: none;
+  }
+  .span.kyc, .cardinfo_content .span {
+    width: 90%;
+  }
+  .cardinfo_content .span {
+      margin-top: 26px;
+  }
+  .payment-tab-sec .tabs {
+        display: none;
+    }
+    .payment-tab-sec .tab_drawer_heading {
+        text-transform: capitalize;
+        background-color: #9a7a32;
+        color: #fff;
+        border-top: 1px solid #333;
+        margin: 0;
+        padding: 5px 20px;
+        display: block;
+        cursor: pointer;
+        -webkit-touch-callout: none;
+        -webkit-user-select: none;
+        -khtml-user-select: none;
+        -moz-user-select: none;
+        -ms-user-select: none;
+        user-select: none;
+    }
+    .payment-tab-sec .d_active {
+        background-color: #282016;
+        color: #fff;
+    }
+      /*Topup Wallet Page starts*/
+  .pre-amt-grp{
+    margin: 0 auto;
+    padding: 0px 0px 30px 20px;
+  }
+  
+  .enter_otp_grp {
+    padding: 0px 27px 30px 27px;
+  }
+  .transfer-funds{
+    width: 100%;
+    margin: 6px 0;
+  }
+  .transfer::after{
+    display: none;
+  }
+  .top-up-del-sec .payment-tab-sec{
+    margin-bottom: 30px;
+  }
+  #myNavbar > ul > li.bal-wallet {
+    /*display: none*/
+}
+.propic img {
+    height: 92px;
+}
+}
+@media (max-width:420px){
+  #myNavbar > ul > li.bal-wallet p{
+    display: inline-grid;
+    top: -8px;
+    position: relative;
+}
+  .add_btn_grp button {
+    margin-right: 10px;
+}
+  .accout-del-sec .col-xs-6 {
+      width: 100%;
+      margin-bottom: 10px;
+  }
+  .span.kyc, .cardinfo_content .span {
+    width: 60%;
+margin: 0 auto;
+text-align: center;
+  }
+  .btn-emal, .btn-cancel {
+    padding: 6px 30px;
+}
+.idproof span {
+    padding: 5px 10px;
+}
+.span.kyc img {
+    width: 50px;
+    float: none;
+    margin-right: 0;
+    text-align: center;
+    margin: 0 auto;
+    margin-bottom: 10px;
+}
+
+}
+@media (max-width:414px){
+  .customer-dashboard .side-menu-container > .navbar-nav.slide-in {
+    overflow-y: scroll;
+    height: 305px;
+    position: relative;
+    overflow-x: hidden;
+  }
+  .nav.login-menu>li>a{
+  padding-top: 15px;
+}
+.static-mobile-details .mobile-login-menu {
+    margin-right: 20px;
+}
+.side-menu .static-mobile-details .mobile-login-menu li a {
+    padding: 0px 0px 0px 20px;
+    color: #eee;
+}
+.propic img {
+    height: 165px;
+}
+}
+@media (max-width:375px){
+  .service-heading {
+    top: 46.5%;
+  }
+  .amt_chk:last-child{
+    margin-top:10px;
+  }
+  .span.kyc, .cardinfo_content .span{
+    width: 70%;
+  }
+  .amt_chk{
+    font-size: 12px;
+    margin-top: 10px;
+  }
+  .wal-img{
+    margin: 0 auto;
+    padding: 0;
+  }
+  .servic-other .transfer-funds {
+      width: 100%;
+  }
+  .transfer::after{
+    border-right: none;
+    border-bottom: 1px solid #bbb;
+    width: :100px;
+    right: 0;
+    left: 0;
+    top: 30%;
+  }
+  .servic-other .transfer-funds:nth-child(4) .transfer::after{
+    border-bottom: 0px solid #bbb;
+  }
+  .customer-dashboard .navbar {
+    border-radius: 0;
+    border-bottom: 0px solid #6E686B;
+    min-height: 75px;
+    margin-bottom: 0px;
+  }
+  .body-content {
+    margin-top: 75px;
+  }
+  .customer-dashboard .mobile-menu .navbar-toggle {
+    display: block !important;
+    margin-top: 12px;
+    margin-right: 0px;
+  }
+  .payment-tab-sec ul.tabs, .payment-tab-sec ul.tab_sec{
+    height: 16px;
+    width: 100%;
+    border-bottom: 0px solid #eee;
+    margin-bottom: 20px;
+  }
+  .navbar-brand > img {
+    max-width: 150px;
+  }
+  p.wal-balnc {
+    font-size: 14px;
+  }
+  
+#myNavbar ul {
+    
+}
+.nav.login-menu>li>a{
+  padding:5px 10px;
+  padding-top: 15px;
+}
+.propic img {
+    height: 145px;
+}
+
+}
+@media (max-width:360px){
+  .customer-dashboard .navbar {
+    border-radius: 0;
+    border-bottom: 0px solid #6E686B;
+    min-height: 75px;
+    margin-bottom: 0px;
+  }
+  .body-content {
+    margin-top: 75px;
+  }
+  .add_money_btn{
+    padding: 9px 16px;
+  }
+  .idproof-fake {
+    width: 100%;
+  }
+  .idproof span {
+    padding: 5px 20px;
+  }
+  .dashboard-heading {
+      text-align: center;
+  }
+}
+@media (max-width:320px){
+  .nav.login-menu>li>a{
+  padding:5px 5px;
+  padding-top: 10px;
+}
+#myNavbar > ul > li.bal-wallet p {
+    display: inline-grid;
+    top: -14px;
+    position: relative;
+}
+.propic img {
+    height: 120px;
+}
+
+}

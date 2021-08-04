@@ -1,0 +1,288 @@
+@media (max-width:1024px){
+	.navbar-toggle .icon-bar {
+	    background: #fff none repeat scroll 0 0;
+	}
+}
+@media (max-width:980px){
+.servc-img .img-responsive {
+    margin: 0 auto 20px;
+}
+.slider{
+	width:100%;
+}
+.social-icon .link {
+    border: 1px solid #8b8473;
+    border-radius: 50%;
+    color: #8b8473;
+    display: inline-block;
+    font-size: 16px;
+    height: 30px;
+    margin: 0 5px;
+    padding: 10px;
+    position: relative;
+    vertical-align: middle;
+    width: 30px;
+}
+
+}
+@media (max-width:800px){
+
+}
+@media (max-width:768px){
+
+}
+@media (max-width:767px){
+	.navbar-nav.main-menu {
+	    margin: 0;
+	    padding-left: 0;
+	    float:none;
+	}
+	.navbar-nav.main-menu, .navbar-nav.login-menu{
+		text-align:center;
+		background:rgba(0, 0, 0, 0.5) none repeat scroll 0 0;
+		margin:0 auto;
+	}
+	.navbar-nav.login-menu > li > a{
+		font-size:18px;
+	}
+	.navbar-toggle {
+	    margin-top: 35px;
+	}
+	.navbar {
+	    border-bottom: 1px solid #eee;
+	}
+	.navbar-collapse {
+	    border-top: 0 solid transparent;
+	    box-shadow: none;
+	    overflow-x: visible;
+	    padding-left: 15px;
+	    padding-right: 15px;
+	}
+}
+@media (max-width:732px){
+
+}
+@media (max-width:667px){
+	.service-content h3 {
+	    text-align: center;
+	    margin-top: 10px;
+	}
+	.service-content p{
+		text-align: center;
+	}
+	.slider {
+	    width: 50%;
+	}
+	footer .col-xs-12 {
+	    text-align: center;
+	    float: none;
+	}
+	footer .social {
+	    text-align: center;
+	}
+}
+@media (max-width:640px){
+
+}
+@media (max-width:639px){
+
+}
+@media (max-width:568px){
+
+}
+@media (max-width:480px){
+
+}
+@media (max-width:375px){
+
+}
+@media (max-width:360px){
+
+}
+@media (max-width:320px){
+
+}
+@media (max-width:1024px){
+	.form-inline > .fm_ctrl {
+	    width: 100%;
+	    margin-bottom: 10px;
+	}
+	.login_form{
+		padding: 30px;
+		margin-bottom: 50px; 
+	}
+	.reg_header::before {
+	    position: absolute;
+	    content: "";
+	    border-bottom: 2px solid #ce9640;
+	    width: 78px;
+	    margin: 0 auto;
+	    text-align: center;
+	    right: 42%;
+	    top: 40px;
+	}
+}
+@media (max-width:980px){
+
+}
+@media (max-width:800px){
+
+}
+@media (max-width:768px){
+
+}
+@media (max-width:767px){
+	.reg_header::before {
+		right: 140px;
+	}
+	.form-inline > .fm_ctrl {
+	    width: 100%;
+	    margin-bottom: 19px;
+	}
+	body {
+	    font-size: 11px;
+	}
+	.btn_sub{
+		width:100%;
+		padding: 8px 30px;
+    	font-size: 18px;
+	}
+	.login_form{
+		padding:20px;
+	}
+}	
+@media (max-width:732px){
+
+}
+@media (max-width:667px){
+
+}
+@media (max-width:640px){
+
+}
+@media (max-width:639px){
+
+}
+@media (max-width:568px){
+
+}
+@media (max-width:480px){
+	.reg_header::before{
+		top: 38px;
+		right: 163px;
+	}
+	.social-icons{
+		width:46px;
+	}
+}
+@media (max-width:375px){
+	.reg_header::before{
+		top: 38px;
+		right: 141px;
+	}
+}
+@media (max-width:360px){
+
+}
+@media (max-width:320px){
+
+}
+/*signin css starts*/
+@media (max-width:1024px){
+	.form-inline > .fm_ctrl {
+	    width: 100%;
+	    margin-bottom: 10px;
+	}
+	.login_form{
+		padding: 30px;
+		margin-bottom: 50px; 
+	}
+	.reg_header::before {
+	    position: absolute;
+	    content: "";
+	    border-bottom: 2px solid #ce9640;
+	    width: 78px;
+	    margin: 0 auto;
+	    text-align: center;
+	    right: 42%;
+	    top: 40px;
+	}
+	.signin_form .reg_header::before {
+	    right: 215px;
+	}
+}
+@media (max-width:980px){
+
+}
+@media (max-width:800px){
+
+}
+@media (max-width:768px){
+	.signin_form .reg_header::before {
+	    right: 348px;
+	}
+}
+@media (max-width:767px){
+	.reg_header::before {
+		right: 140px;
+	}
+	.form-inline > .fm_ctrl {
+	    width: 100%;
+	    margin-bottom: 19px;
+	}
+	body {
+	    font-size: 11px;
+	}
+	.btn_sub{
+		width:100%;
+		padding: 8px 30px;
+    	font-size: 18px;
+	}
+	.login_form{
+		padding:20px;
+	}
+}	
+@media (max-width:732px){
+
+}
+@media (max-width:667px){
+
+}
+@media (max-width:640px){
+
+}
+@media (max-width:639px){
+
+}
+@media (max-width:568px){
+
+}
+@media (max-width:480px){
+	.signin_form .reg_header::before {
+	    
+	    right: 161px;
+	}
+	.social-icons{
+		width:46px;
+	}
+	.signin_form {
+	    padding: 53px 31px;
+	}
+}
+@media (max-width:414px){
+	.signin_form .reg_header::before {
+	    right: 172px;
+	}
+}
+@media (max-width:375px){
+	.signin_form .reg_header::before {
+	    right: 159px;
+	}
+}
+@media (max-width:360px){
+
+}
+@media (max-width:320px){
+
+}
+/*signin css ends*/

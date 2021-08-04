@@ -1,0 +1,151 @@
+.animated-fromleft{
+    opacity: 0;
+    animation: animation-fromleft 1s linear forwards;
+}
+@keyframes animation-fromleft {
+    from {
+        opacity: 0;
+        transform: translateX(-600px) rotateZ(0deg);
+    }
+    to {
+        opacity: 1;
+        transform: rotateZ(0);
+    }
+}
+.animated-fromright{
+    opacity: 0;
+    animation: animation-fromright 1s linear forwards;
+}
+@keyframes animation-fromright {
+    from {
+        opacity: 0;
+        transform: translateX(600px) rotateZ(0deg);
+    }
+    to {
+        opacity: 1;
+        transform: rotateZ(0);
+    }
+}
+.animated-fromtop{
+    opacity: 0;
+    animation: animation-fromtop 1s linear forwards;
+}
+@keyframes animation-fromtop {
+    from {
+        opacity: 0;
+        transform: translateY(-400px);
+    }
+    to {
+        opacity: 1;
+        transform : translateY(0);
+    }
+}
+.animated-frombottom{
+    opacity: 0;
+    animation: animation-frombottom 1s linear forwards;
+}
+@keyframes animation-frombottom {
+    from {
+        opacity: 0;
+        transform: translateY(400px);
+    }
+    to {
+        opacity: 1;
+        transform : translateY(0);
+    }
+}
+.animated-fadein{
+    animation-duration: 1s;
+    animation-delay: 0.2s;
+}
+@keyframes animation-fadein {
+    0% {
+         opacity: 0;
+    }
+     50% {
+        opacity: 0.5;
+    }
+    100% {
+        opacity: 1;
+    }
+}
+.animated-fadein-up{
+    animation-duration: 1s;
+    animation-delay: 1s;
+    animation: animated-fadein-up 1s ease-in both;
+}
+@keyframes animated-fadein-up {
+    from {
+        opacity: 0;
+        transform: translate3d(0, 20%, 0);
+    }
+    to {
+        opacity: 1;
+        transform: translate3d(0, 0, 0);
+    }
+}
+.animated-zoomin{
+    animation: animation-zoomin 1s ease-in;
+    transition: all .1s ease-in-out;
+}
+@keyframes animation-zoomin {
+    0% {
+        transform: scale(0.5);
+    }
+    100% {
+        transform: scale(1);
+    }
+}
+.animated-spin{
+    /*animation-name: animated-spin;
+    animation-duration: 1000ms;
+    animation-timing-function: linear;*/
+    animation: animated-spin 1s linear;
+}
+@keyframes animated-spin {
+    from {
+        transform:rotate(360deg);
+        opacity: 0;
+    }
+    to {
+        transform:rotate(0deg);
+        opacity: 1;
+    }
+}
+.animated-rotation{
+    animation: animated-rotation 1s linear;
+}
+@keyframes animated-rotation {
+    from {
+        transform: rotate(0deg);
+    }
+    to {
+        transform: rotate(359deg);
+    }
+}
+.animation-bgcolor {
+  animation: animation-bgcolor 5s linear;
+}
+@keyframes animation-bgcolor {
+  0% {
+    opacity: 0.5;
+  }
+  100% {
+    opacity: 1;
+  }
+}
+.animate-shake {
+    animation-duration: 1s;
+    animation-delay: 1s;
+    animation: shake 1s ease-in-out;
+}
+@keyframes animate-shake {
+ from {
+    -webkit-transform: rotate(10deg);
+ }
+ to {
+   -webkit-transform-origin:center center;
+   -webkit-transform: rotate(-10deg);
+ }
+
+}

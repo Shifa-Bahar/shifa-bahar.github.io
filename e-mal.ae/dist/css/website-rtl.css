@@ -1,0 +1,173 @@
+.arabic .col-lg-1,
+.arabic .col-lg-10,
+.arabic .col-lg-11,
+.arabic .col-lg-12,
+.arabic .col-lg-2,
+.arabic .col-lg-3,
+.arabic .col-lg-4,
+.arabic .col-lg-5,
+.arabic .col-lg-6,
+.arabic .col-lg-7,
+.arabic .col-lg-8,
+.arabic .col-lg-9,
+.arabic .col-md-1,
+.arabic .col-md-10,
+.arabic .col-md-11,
+.arabic .col-md-12,
+.arabic .col-md-2,
+.arabic .col-md-3,
+.arabic .col-md-4,
+.arabic .col-md-5,
+.arabic .col-md-6,
+.arabic .col-md-7,
+.arabic .col-md-8,
+.arabic .col-md-9,
+.arabic .col-sm-1,
+.arabic .col-sm-10,
+.arabic .col-sm-11,
+.arabic .col-sm-12,
+.arabic .col-sm-2,
+.arabic .col-sm-3,
+.arabic .col-sm-4,
+.arabic .col-sm-5,
+.arabic .col-sm-6,
+.arabic .col-sm-7,
+.arabic .col-sm-8,
+.arabic .col-sm-9,
+.arabic .col-xs-1,
+.arabic .col-xs-10,
+.arabic .col-xs-11,
+.arabic .col-xs-12,
+.arabic .col-xs-2,
+.arabic .col-xs-3,
+.arabic .col-xs-4,
+.arabic .col-xs-5,
+.arabic .col-xs-6,
+.arabic .col-xs-7,
+.arabic .col-xs-8,
+.arabic .col-xs-9 {
+    float: right;
+}
+
+.arabic .navbar-header {
+    float: right;
+}
+
+.arabic .navbar-right .dropdown-menu {
+    right: auto;
+    left: 0;
+    background: rgba(0, 0, 0, 0.6);
+}
+
+.navbar-nav.login-menu li.language a:hover {
+    background: transparent;
+}
+
+.arabic .navbar-nav.main-menu {
+    float: right;
+    margin: 0;
+    padding-left: 0px;
+    padding-right: 100px;
+}
+
+.arabic .navbar-right {
+    float: left !important;
+    margin-left: -15px;
+    margin-right: 0px;
+}
+
+.arabic .navbar-nav>li {
+    float: right;
+}
+
+.arabic .follow-us {
+    text-align: left;
+}
+
+.arabic .social {
+    text-align: left;
+}
+
+.arabic .social .link {
+    margin-left: 0px;
+    margin-right: 15px;
+}
+
+.arabic .list-unstyled.quick-links {
+    padding-right: 0px;
+}
+
+.arabic .home-two h2::before {
+    margin-left: auto;
+    margin-right: 25px;
+}
+
+.arabic .ourservice.summery h2::before {
+    margin-right: 58px;
+    margin-left: auto;
+}
+
+.arabic .team.summery h2::before {
+    margin-right: 30px;
+    margin-left: auto;
+}
+
+.arabic .contact.summery h2::before {
+    margin-right: 55px;
+    margin-left: auto;
+}
+
+.arabic .services-two h2::before {
+    margin-left: auto;
+    margin-right: 55px;
+}
+
+.arabic .aboutus-two .vcontent h2::before {
+    left: auto;
+    margin-right: 35px;
+    margin-left: 0px;
+}
+
+.arabic .our-tm h1::before {
+    margin-right: 35px;
+    margin-left: auto;
+    top: -10px;
+}
+
+.arabic .service-tab-section .nav-tabs>li {
+    margin-left: 20px;
+    margin-right: auto;
+}
+
+.arabic .service-tab-section .nav-tabs>li:last-child {
+    margin-left: 0px;
+    margin-right: auto;
+}
+
+.arabic .service-tab-section ul li a::before {
+    content: "";
+    position: absolute;
+    width: 57px;
+    height: 46px;
+    right: 10px;
+    left: auto;
+    top: 10px;
+}
+
+.arabic .service-tab-section ul li a {
+    padding: 20px 73px 20px 0px;
+    margin-left: 0px;
+}
+
+.arabic .service-tab-section .nav-tabs {
+    padding-right: 0px;
+}
+
+.arabic .text-left {
+    text-align: right;
+}
+
+.arabic .ourteam-two .ceoimg {
+    right: 102px;
+    left: auto;
+}
